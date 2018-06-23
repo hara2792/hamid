@@ -91,3 +91,11 @@ table {
 h2, h3 {
     font-weight: bold;
 }
+
+#photo {
+    float: left;
+    width: 100%;
+    max-width: 16em;
+    height: auto;
+    margin: 3em 3em;
+}
