@@ -130,8 +130,8 @@ h2, h3 {
 .accordion {
     background-color: #eee;
     color: #444;
-    cursor: pointer;
     padding: 18px;
+    cursor: pointer;
     width: 100%;
     text-align: left;
     border: none;
@@ -232,7 +232,9 @@ ol, ul {
             color-stop(0%,rgba(255,255,255,0)), 
             color-stop(20%,rgba(255,255,255,0.5)), 
             color-stop(80%,rgba(255,255,255,0.5)), 
-            color-stop(100%,rgba(255,255,255,0))),        
+            color-stop(100%,rgba(255,255,255,0))),    
+            
+            
         
         /* diagonal line pattern */
         gradient(
